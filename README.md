@@ -6,8 +6,6 @@
 - 🙋‍♂️Meu nome é William, sou apaixonado na área de tecnologia desde pequeno, sempre gostei de saber e entender como as coisas funcionam e de resolver problemas.  
 - 📚Atualmente cursando Sistemas de Informações pelo Instituto Federal do Espírito Santo (IFES) de Colatina.  
 - 💻No momento estagiando na área e trabalhando em projetos pessoais.  
-
-<br/>
 <!--#################################################         Conhecimentos na área de tecnologia mim         #################################################-->
 <div align="center">
     <h2>Conhecimentos na área de tecnologia</h2>
@@ -40,14 +38,18 @@
   <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
-<br/>
-<i>You can give up. After you get it.</i>
 <br/><br/>
-
-<!--#################################################         Status Github        #################################################-->
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=williamdbc&show_icons=true&count_private=true&hide_border=true"/>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamdbc&hide_border=true&layout=compact"/>
+<!--#################################################         Frase motivicional?        #################################################-->
+<div align="center">
+    <i>You can give up. After you get it.</i>
 </div>
 
-<!--#################################################         Frase motivicional?        #################################################-->
+<br/><br/>
+<!--#################################################         Status Github        #################################################-->
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=williamdbc&show_icons=true&theme=algolia"/>  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kezhui&layout=compact&theme=algolia"/>
+    
+</div>
+
+
