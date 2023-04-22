@@ -4,7 +4,7 @@
 </div>
 
 - 🙋‍♂️Meu nome é William, sou apaixonado na área de tecnologia desde pequeno, sempre gostei de saber e entender como as coisas funcionam e de resolver problemas.  
-- 📚Atualmente cursando Sistemas de Informações pelo Instituto Federal do Espírito Santo (IFES) de Colatina.  
+- 📚Atualmente cursando Sistemas de Informações pelo Instituto Federal do Espírito Santo (IFES).  
 - 💻No momento estagiando na área e trabalhando em projetos pessoais.  
 <!--#################################################         Conhecimentos na área de tecnologia mim         #################################################-->
 <div align="center">
