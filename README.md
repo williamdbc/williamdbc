@@ -4,7 +4,7 @@
 </div>
 
 - 🙋‍♂️Meu nome é William, sou apaixonado na área de tecnologia desde pequeno, sempre gostei de saber e entender como as coisas funcionam e de resolver problemas.  
-- 📚Atualmente cursando Sistemas de Informações pelo Instituto Federal do Espírito Santo (IFES).  
+- 📚Atualmente cursando Sistemas de Informação pelo Instituto Federal do Espírito Santo (IFES).  
 - 💻No momento estagiando na área e trabalhando em projetos pessoais.  
 <!--#################################################         Conhecimentos na área de tecnologia mim         #################################################-->
 <div align="center">
@@ -21,7 +21,7 @@
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>  
 
-### Banco de Dados  
+### Banco de dados  
 <div>  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -49,7 +49,6 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=williamdbc&show_icons=true&theme=algolia"/>  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kezhui&layout=compact&theme=algolia"/>
-    
 </div>
 
 
