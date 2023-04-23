@@ -3,7 +3,7 @@
     <h2>Sobre mim</h2>
 </div>
 
-- 🙋‍♂️Meu nome é William, sou apaixonado na área de tecnologia desde pequeno, sempre gostei de saber e entender como as coisas funcionam e de resolver problemas.  
+- 🙋‍Prazer, me chamo William.
 - 📚Atualmente cursando Sistemas de Informação pelo Instituto Federal do Espírito Santo (IFES).  
 - 💻No momento estagiando na área e trabalhando em projetos pessoais.  
 <!--#################################################         Conhecimentos na área de tecnologia mim         #################################################-->
